@@ -5,6 +5,8 @@ This project demonstrates how to integrate Groq’s ultra-fast inference with a 
 
 🚀 Features
 
+
+
    💬 ChatGPT-style conversational interface
 
    🧠 Conversation memory using session state
@@ -19,6 +21,8 @@ This project demonstrates how to integrate Groq’s ultra-fast inference with a 
 
 🛠️ Tech Stack
 
+
+
    python
 
    Streamlit – Frontend UI
@@ -28,6 +32,8 @@ This project demonstrates how to integrate Groq’s ultra-fast inference with a 
    python-dotenv – Secure API key management
 
 📂 Project Structure
+
+
    groq-ai-chatbot/
    │
    ├── app.py              # Main application file
@@ -37,6 +43,8 @@ This project demonstrates how to integrate Groq’s ultra-fast inference with a 
 
 🔑 Prerequisites
 
+
+
    Python 3.9 or above
 
    Groq API Key (from Groq Console)
@@ -44,6 +52,8 @@ This project demonstrates how to integrate Groq’s ultra-fast inference with a 
    Git (optional, for version control)
 
 🤖 Supported Models
+
+
 
    You can switch between models directly from the sidebar:
 
@@ -57,6 +67,8 @@ This project demonstrates how to integrate Groq’s ultra-fast inference with a 
 
 🧠 Learning Outcomes
 
+
+
    Working with LLM APIs
 
    Streamlit UI development
@@ -69,6 +81,8 @@ This project demonstrates how to integrate Groq’s ultra-fast inference with a 
 
 📌 Future Enhancements
 
+
+
    🌗 Dark / Light mode toggle
 
    📄 PDF upload & Q&A (RAG)
@@ -78,6 +92,8 @@ This project demonstrates how to integrate Groq’s ultra-fast inference with a 
    🌍 Cloud deployment
 
 👩‍💻 Author
+
+
 
    Dharshini
    Computer Science Engineering Student
